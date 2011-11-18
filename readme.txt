@@ -43,7 +43,7 @@ which normally takes only a few minutes:
 
 For more information, see the INSTALLATION GUIDE AND USER GUIDE:
 
-https://usability.mimos.my/solution.html
+http://usability.mimos.my/ums/solution.html
 
 Good luck and have fun!
 
